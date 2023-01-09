@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>欢迎访问echarts测试网站</title>
+<title>测试</title>
 </head>
 <body style=" text-align: center; ">
-<h2>欢迎访问ssm框架+echarts测试网页</h2>
+<h2>ssm框架+mysql测试</h2>
 <h3>作者：李强</h3>
-<h3>时间：2022/11/29</h3>
+<h3>时间：2022/12/29</h3>
 <a href ="myeCharts">查看学生成绩柱状图</a>
 <a href ="getPieCharts">查看学生成绩饼图</a>
 <a href="showAlldata">查看大屏可视化</a>

@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="JavaCharts" />
         <module name="javaCode" />
+        <module name="Back-end-system" />
       </profile>
     </annotationProcessing>
   </component>
